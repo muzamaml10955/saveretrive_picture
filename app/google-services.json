@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537247317239",
+    "project_id": "savingandretriving",
+    "storage_bucket": "savingandretriving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537247317239:android:9a14df7c1f4947c1aea7f2",
+        "android_client_info": {
+          "package_name": "com.inspirationappsstudio.savingandretrivingfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537247317239-vn4a8rljm19om8f94tgc8ph7pgchium7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnmHk3KgDiSS48QzMfBx00Ji0KknnniGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537247317239-vn4a8rljm19om8f94tgc8ph7pgchium7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
